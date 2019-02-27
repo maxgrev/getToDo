@@ -57,8 +57,8 @@
 				DB966AB92225983600E384EA /* AppDelegate.swift */,
 				DB966ABB2225983600E384EA /* getToDoViewController.swift */,
 				DB966ABD2225983600E384EA /* Main.storyboard */,
-				DB966AC02225983800E384EA /* Assets.xcassets */,
 				DB966AC22225983800E384EA /* LaunchScreen.storyboard */,
+				DB966AC02225983800E384EA /* Assets.xcassets */,
 				DB966AC52225983800E384EA /* Info.plist */,
 			);
 			path = getToDo;
